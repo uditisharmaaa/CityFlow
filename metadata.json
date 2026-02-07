@@ -1,0 +1,7 @@
+{
+  "name": "Project GreenCorridor Dashboard",
+  "description": "A React-based Digital Twin dashboard for the Project GreenCorridor autonomous city prototype. Visualizes YOLO detection, SUMO traffic simulation, and Agent activities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
